@@ -1,4 +1,4 @@
-testslides1
+My Slides Test File
 ========================================================
 author: 
 date: 
