@@ -1,0 +1,26 @@
+ECON 709: Reproducible Research Projects
+========================================================
+author: Brad R. Humphreys
+date: Spring 2022
+autosize: true
+
+What is Reproducible Research?
+========================================================
+
+- Designing a research project so that an independent outside observer can reproduce all results in the final paper without any instructions from you
+- Bullet 2
+- Bullet 3
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
