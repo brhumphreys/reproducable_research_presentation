@@ -26,6 +26,9 @@ Why Undertake Reproducible Research?
 - Facilitates collaborative research
 - Helps your future self. This approach will save you hundreds, perhaps thousands of hours spent "reinventing the wheel" over your career
 - Trust me on this.  I learned the hard way.
+- Also useful in disseminating your research.  Example: this presentation is available on my Github repository
+
+https://github.com/brhumphreys/reproducible_research_presentation
 
 
 
@@ -69,7 +72,7 @@ Metadata
 * General https://data.research.cornell.edu/content/writing-metadata
 
 
-========================================================
+========================================================  
 📁 project  
 |── README.md  
 |── requirements.txt  
