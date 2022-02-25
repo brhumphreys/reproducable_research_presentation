@@ -4,3 +4,4 @@ Main presentation files and associated content.  The presentation format is in t
 
 https://support.rstudio.com/hc/en-us/articles/200486468-Authoring-R-Presentations
 
+aThe markdown version of this presentation is easiest to view in Github.
