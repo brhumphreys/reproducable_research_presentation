@@ -122,7 +122,7 @@ Script Everything
 * Use comments in your scripts.  This is for the future you.  Trust me, they are important
 * Ideally have one "master" script that runs all scripts needed to read, clean, mainpulate and analyze data
 
-========================================================
+========================================================  
 **Folder 1**  
 01_read-raw-price-data.R  
 02_merge-in-state-data.R  
